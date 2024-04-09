@@ -1,0 +1,20 @@
+{
+  "blockId": "PwibzqrcREyiu2pwpwG1n",
+  "name": "9Aprtest_B1",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/9Aprtest.git",
+    "ssh": "git@github.com:grgshiji/9Aprtest.git",
+    "branch": "block_9Aprtest_B1"
+  },
+  "parentBlockIDs": [
+    "wmmHpdt9TbH2Ku6rL7z20"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
