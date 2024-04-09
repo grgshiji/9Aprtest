@@ -1,0 +1,16 @@
+{
+  "name": "9Aprtest",
+  "type": "package",
+  "blockId": "wmmHpdt9TbH2Ku6rL7z20",
+  "source": {
+    "https": "https://github.com/grgshiji/9Aprtest.git",
+    "ssh": "git@github.com:grgshiji/9Aprtest.git",
+    "branch": "block_9Aprtest"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
