@@ -1,0 +1,16 @@
+{
+  "name": "9Aprtest",
+  "type": "package",
+  "blockId": "wmmHpdt9TbH2Ku6rL7z20",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_9Aprtest"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
